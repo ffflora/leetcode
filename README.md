@@ -5,6 +5,7 @@ My solutions to some selected leetcode problems.
 
 | Leetcode #    | Description   | Difficulty |
 | ------------- | ------------- | ------------- |
+|[1](https://github.com/ffflora/leetcode/blob/master/1.md)| Two Sum | Easy|
 | [69](https://github.com/ffflora/leetcode/blob/master/69.md)           | Implement int sqrt(int x) | Easy|
 | [75](https://github.com/ffflora/leetcode/blob/master/75.md)           | Sort Colors | Medium |
 | [167](https://github.com/ffflora/leetcode/blob/master/167.md)           | Two Sum II - Input array is sorted | Easy|
