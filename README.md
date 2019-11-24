@@ -16,3 +16,5 @@ My solutions to some selected leetcode problems.
 | [347](https://github.com/ffflora/leetcode/blob/master/347.md)           | Top K Frequent Elements | ![](https://img.shields.io/badge/-medium-yellow)  |
 | [378](https://github.com/ffflora/leetcode/blob/master/378.md)           | Kth Smallest Element in a Sorted Matrix | ![](https://img.shields.io/badge/-medium-yellow)  |
 | [455](https://github.com/ffflora/leetcode/blob/master/455.md)           | Assign Cookies | ![](https://img.shields.io/badge/-esay-green) |
+| [504](https://github.com/ffflora/leetcode/blob/master/504.md) | Base 7 | ![](https://img.shields.io/badge/-esay-green) |
+
