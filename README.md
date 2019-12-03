@@ -8,6 +8,8 @@ My solutions to some selected leetcode problems.
 |[1](https://github.com/ffflora/leetcode/blob/master/1.md)| Two Sum | ![](https://img.shields.io/badge/-esay-green)|
 | [69](https://github.com/ffflora/leetcode/blob/master/69.md)           | Implement int sqrt(int x) | ![](https://img.shields.io/badge/-esay-green)|
 | [75](https://github.com/ffflora/leetcode/blob/master/75.md)           | Sort Colors | ![](https://img.shields.io/badge/-medium-yellow) |
+| [94](https://github.com/ffflora/leetcode/blob/master/94.md)           | Binary Tree Inorder Traversal | ![](https://img.shields.io/badge/-medium-yellow) |
+| [144](https://github.com/ffflora/leetcode/blob/master/144.md)           | Binary Tree Preorder Traversal | ![](https://img.shields.io/badge/-medium-yellow) |
 | [167](https://github.com/ffflora/leetcode/blob/master/167.md)           | Two Sum II - Input array is sorted | ![](https://img.shields.io/badge/-esay-green)|
 | [215](https://github.com/ffflora/leetcode/blob/master/215.md)           | Kth Largest Element in an Array | ![](https://img.shields.io/badge/-medium-yellow)  |
 | [241](https://github.com/ffflora/leetcode/blob/master/241.md)           | Different Ways to Add Parentheses | ![](https://img.shields.io/badge/-medium-yellow)  |
