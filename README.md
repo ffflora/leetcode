@@ -29,4 +29,5 @@ My solutions to some selected LeetCode problems.
 | [557](https://github.com/ffflora/leetcode/blob/master/python/557.md) | Reverse words in a String III | ![](https://img.shields.io/badge/-esay-green) |
 | [704](https://github.com/ffflora/leetcode/blob/master/python/704.md) |Binary Search | ![](https://img.shields.io/badge/-esay-green) |
 | [912](https://github.com/ffflora/leetcode/blob/master/python/912.md) |Sort an Array | ![](https://img.shields.io/badge/-medium-yellow) |
+| [977](https://github.com/ffflora/leetcode/blob/master/python/977.md) |Squares of a Sorted Array | ![](https://img.shields.io/badge/-esay-green) |
 
