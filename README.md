@@ -6,6 +6,7 @@ My solutions to some selected LeetCode problems.
 | Leetcode #    | Description   | Difficulty |
 | ------------- | ------------- | ------------- |
 |[1](https://github.com/ffflora/leetcode/blob/master/python/1.md)| Two Sum | ![](https://img.shields.io/badge/-esay-green)|
+|[33](https://github.com/ffflora/leetcode/blob/master/python/33.md)| Search in Rotated Sorted Array | ![](https://img.shields.io/badge/-medium-yellow) |
 |[34](https://github.com/ffflora/leetcode/blob/master/python/34.md)| Find First and Last Position of Element in Sorted Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [35](https://github.com/ffflora/leetcode/blob/master/python/35.md)    | Search Insert Position| ![](https://img.shields.io/badge/-esay-green)|
 | [69](https://github.com/ffflora/leetcode/blob/master/python/69.md)    | Implement int sqrt(int x) | ![](https://img.shields.io/badge/-esay-green)|
