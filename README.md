@@ -10,6 +10,7 @@ My solutions to some selected LeetCode problems.
 |[34](https://github.com/ffflora/leetcode/blob/master/python/34.md)| Find First and Last Position of Element in Sorted Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [35](https://github.com/ffflora/leetcode/blob/master/python/35.md)    | Search Insert Position| ![](https://img.shields.io/badge/-esay-green)|
 | [69](https://github.com/ffflora/leetcode/blob/master/python/69.md)    | Implement int sqrt(int x) | ![](https://img.shields.io/badge/-esay-green)|
+| [74](https://github.com/ffflora/leetcode/blob/master/python/74.md) | Search in a 2D Matrix | ![](https://img.shields.io/badge/-medium-yellow) |
 | [75](https://github.com/ffflora/leetcode/blob/master/python/75.md)    | Sort Colors | ![](https://img.shields.io/badge/-medium-yellow) |
 | [94](https://github.com/ffflora/leetcode/blob/master/python/94.md)    | Binary Tree Inorder Traversal | ![](https://img.shields.io/badge/-medium-yellow) |
 | [141](https://github.com/ffflora/leetcode/blob/master/python/141.md)    | Linked List Cycle | ![](https://img.shields.io/badge/-esay-green) |
