@@ -17,6 +17,7 @@ My solutions to some selected LeetCode problems.
 | [144](https://github.com/ffflora/leetcode/blob/master/python/144.md)    | Binary Tree Preorder Traversal | ![](https://img.shields.io/badge/-medium-yellow) |
 | [153](https://github.com/ffflora/leetcode/blob/master/python/153.md)    |Find Minimum in Rotated Sorted Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [160](https://github.com/ffflora/leetcode/blob/master/python/160.md)    | Intersection of Two Linked Lists | ![](https://img.shields.io/badge/-esay-green) |
+| [162](https://github.com/ffflora/leetcode/blob/master/python/162.md) | Find Peak Element | ![](https://img.shields.io/badge/-medium-yellow) |
 | [167](https://github.com/ffflora/leetcode/blob/master/python/167.md)    | Two Sum II - Input array is sorted | ![](https://img.shields.io/badge/-esay-green)|
 | [189](https://github.com/ffflora/leetcode/blob/master/python/189.md) | Rotate Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [206](https://github.com/ffflora/leetcode/blob/master/python/206.md) | Reverse Linked List | ![](https://img.shields.io/badge/-esay-green) |
