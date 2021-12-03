@@ -34,6 +34,8 @@ My solutions to some selected LeetCode problems.
 | [378](https://github.com/ffflora/leetcode/blob/master/python/378.md)    | Kth Smallest Element in a Sorted Matrix | ![](https://img.shields.io/badge/-medium-yellow)  |
 | [455](https://github.com/ffflora/leetcode/blob/master/python/455.md)    | Assign Cookies | ![](https://img.shields.io/badge/-esay-green) |
 | [504](https://github.com/ffflora/leetcode/blob/master/python/504.md) | Base 7 | ![](https://img.shields.io/badge/-esay-green) |
+| [511](https://github.com/ffflora/leetcode/blob/master/python/511.md) | **SQL - Game Play Analysis I** | ![](https://img.shields.io/badge/-esay-green) |
+| [512](https://github.com/ffflora/leetcode/blob/master/python/512.md) | **SQL - Game Play Analysis II** | ![](https://img.shields.io/badge/-esay-green) |
 | [557](https://github.com/ffflora/leetcode/blob/master/python/557.md) | Reverse words in a String III | ![](https://img.shields.io/badge/-esay-green) |
 | [704](https://github.com/ffflora/leetcode/blob/master/python/704.md) |Binary Search | ![](https://img.shields.io/badge/-esay-green) |
 | [912](https://github.com/ffflora/leetcode/blob/master/python/912.md) |Sort an Array | ![](https://img.shields.io/badge/-medium-yellow) |
