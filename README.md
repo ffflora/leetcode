@@ -39,8 +39,10 @@ My solutions to some selected LeetCode problems.
 | [511](https://github.com/ffflora/leetcode/blob/master/python/511.md) | **SQL - Game Play Analysis I** | ![](https://img.shields.io/badge/-esay-green) |
 | [512](https://github.com/ffflora/leetcode/blob/master/python/512.md) | **SQL - Game Play Analysis II** | ![](https://img.shields.io/badge/-esay-green) |
 | [557](https://github.com/ffflora/leetcode/blob/master/python/557.md) | Reverse words in a String III | ![](https://img.shields.io/badge/-esay-green) |
+| [577](https://github.com/ffflora/leetcode/blob/master/python/577.md) | **SQL - Employee Bonus** | ![](https://img.shields.io/badge/-esay-green) |
 | [608](https://github.com/ffflora/leetcode/blob/master/python/608.md) | **SQL - Tree Node** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [704](https://github.com/ffflora/leetcode/blob/master/python/704.md) |Binary Search | ![](https://img.shields.io/badge/-esay-green) |
 | [912](https://github.com/ffflora/leetcode/blob/master/python/912.md) |Sort an Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [977](https://github.com/ffflora/leetcode/blob/master/python/977.md) |Squares of a Sorted Array | ![](https://img.shields.io/badge/-esay-green) |
+| [1511](https://github.com/ffflora/leetcode/blob/master/python/1511.md) |**SQL - Customer Order Frequency** | ![](https://img.shields.io/badge/-esay-green) |
 
