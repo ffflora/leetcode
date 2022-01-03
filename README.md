@@ -44,5 +44,7 @@ My solutions to some selected LeetCode problems.
 | [704](https://github.com/ffflora/leetcode/blob/master/python/704.md) |Binary Search | ![](https://img.shields.io/badge/-esay-green) |
 | [912](https://github.com/ffflora/leetcode/blob/master/python/912.md) |Sort an Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [977](https://github.com/ffflora/leetcode/blob/master/python/977.md) |Squares of a Sorted Array | ![](https://img.shields.io/badge/-esay-green) |
+| [1164](https://github.com/ffflora/leetcode/blob/master/python/1164.md) |**SQL - Product Price At A Given Date** | ![](https://img.shields.io/badge/-medium-yellow) |
+| [1501](https://github.com/ffflora/leetcode/blob/master/python/1501.md) |**SQL - Countries You Can Safely Invest In** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1511](https://github.com/ffflora/leetcode/blob/master/python/1511.md) |**SQL - Customer Order Frequency** | ![](https://img.shields.io/badge/-esay-green) |
 
