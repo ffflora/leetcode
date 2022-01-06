@@ -28,6 +28,7 @@ My solutions to some selected LeetCode problems.
 | [182](https://github.com/ffflora/leetcode/blob/master/python/182.md) | **SQL - Duplicate Emails** | ![](https://img.shields.io/badge/-esay-green) |
 | [183](https://github.com/ffflora/leetcode/blob/master/python/183.md) | **SQL - Customers Who Never Order** | ![](https://img.shields.io/badge/-esay-green) |
 | [189](https://github.com/ffflora/leetcode/blob/master/python/189.md) | Rotate Array | ![](https://img.shields.io/badge/-medium-yellow) |
+| [196](https://github.com/ffflora/leetcode/blob/master/python/196.md) | **SQL - Delete Duplicate Emails** | ![](https://img.shields.io/badge/-esay-green) |
 | [206](https://github.com/ffflora/leetcode/blob/master/python/206.md) | Reverse Linked List | ![](https://img.shields.io/badge/-esay-green) |
 | [215](https://github.com/ffflora/leetcode/blob/master/python/215.md)    | Kth Largest Element in an Array | ![](https://img.shields.io/badge/-medium-yellow)  |
 | [241](https://github.com/ffflora/leetcode/blob/master/python/241.md)    | Different Ways to Add Parentheses | ![](https://img.shields.io/badge/-medium-yellow)  |
