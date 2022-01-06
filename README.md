@@ -6,6 +6,7 @@ My solutions to some selected LeetCode problems.
 | Leetcode #    | Description   | Difficulty |
 | ------------- | ------------- | ------------- |
 |[1](https://github.com/ffflora/leetcode/blob/master/python/1.md)| Two Sum | ![](https://img.shields.io/badge/-esay-green)|
+|[13](https://github.com/ffflora/leetcode/blob/master/python/13.md)| Roman to Integer | ![](https://img.shields.io/badge/-esay-green) |
 |[15](https://github.com/ffflora/leetcode/blob/master/python/15.md)| 3Sum | ![](https://img.shields.io/badge/-medium-yellow) |
 |[33](https://github.com/ffflora/leetcode/blob/master/python/33.md)| Search in Rotated Sorted Array | ![](https://img.shields.io/badge/-medium-yellow) |
 |[34](https://github.com/ffflora/leetcode/blob/master/python/34.md)| Find First and Last Position of Element in Sorted Array | ![](https://img.shields.io/badge/-medium-yellow) |
@@ -23,6 +24,9 @@ My solutions to some selected LeetCode problems.
 | [167](https://github.com/ffflora/leetcode/blob/master/python/167.md)    | Two Sum II - Input array is sorted | ![](https://img.shields.io/badge/-esay-green)|
 | [175](https://github.com/ffflora/leetcode/blob/master/python/175.md) | **SQL - Combine Two Tables** | ![](https://img.shields.io/badge/-esay-green) |
 | [176](https://github.com/ffflora/leetcode/blob/master/python/176.md) | **SQL - Second Highest Salary** | ![](https://img.shields.io/badge/-medium-yellow) |
+| [181](https://github.com/ffflora/leetcode/blob/master/python/181.md) | **SQL - Employees Earning More Than Their Managers** | ![](https://img.shields.io/badge/-esay-green) |
+| [182](https://github.com/ffflora/leetcode/blob/master/python/182.md) | **SQL - Duplicate Emails** | ![](https://img.shields.io/badge/-esay-green) |
+| [183](https://github.com/ffflora/leetcode/blob/master/python/183.md) | **SQL - Customers Who Never Order** | ![](https://img.shields.io/badge/-esay-green) |
 | [189](https://github.com/ffflora/leetcode/blob/master/python/189.md) | Rotate Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [206](https://github.com/ffflora/leetcode/blob/master/python/206.md) | Reverse Linked List | ![](https://img.shields.io/badge/-esay-green) |
 | [215](https://github.com/ffflora/leetcode/blob/master/python/215.md)    | Kth Largest Element in an Array | ![](https://img.shields.io/badge/-medium-yellow)  |
