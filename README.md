@@ -29,6 +29,7 @@ My solutions to some selected LeetCode problems.
 | [183](https://github.com/ffflora/leetcode/blob/master/python/183.md) | **SQL - Customers Who Never Order** | ![](https://img.shields.io/badge/-esay-green) |
 | [189](https://github.com/ffflora/leetcode/blob/master/python/189.md) | Rotate Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [196](https://github.com/ffflora/leetcode/blob/master/python/196.md) | **SQL - Delete Duplicate Emails** | ![](https://img.shields.io/badge/-esay-green) |
+| [197](https://github.com/ffflora/leetcode/blob/master/python/197.md) | **SQL - Rising Temperature** | ![](https://img.shields.io/badge/-esay-green) |
 | [206](https://github.com/ffflora/leetcode/blob/master/python/206.md) | Reverse Linked List | ![](https://img.shields.io/badge/-esay-green) |
 | [215](https://github.com/ffflora/leetcode/blob/master/python/215.md)    | Kth Largest Element in an Array | ![](https://img.shields.io/badge/-medium-yellow)  |
 | [241](https://github.com/ffflora/leetcode/blob/master/python/241.md)    | Different Ways to Add Parentheses | ![](https://img.shields.io/badge/-medium-yellow)  |
@@ -45,6 +46,10 @@ My solutions to some selected LeetCode problems.
 | [512](https://github.com/ffflora/leetcode/blob/master/python/512.md) | **SQL - Game Play Analysis II** | ![](https://img.shields.io/badge/-esay-green) |
 | [557](https://github.com/ffflora/leetcode/blob/master/python/557.md) | Reverse words in a String III | ![](https://img.shields.io/badge/-esay-green) |
 | [577](https://github.com/ffflora/leetcode/blob/master/python/577.md) | **SQL - Employee Bonus** | ![](https://img.shields.io/badge/-esay-green) |
+| [584](https://github.com/ffflora/leetcode/blob/master/python/584.md) | **SQL - Find Customer Referee** | ![](https://img.shields.io/badge/-esay-green) |
+| [586](https://github.com/ffflora/leetcode/blob/master/python/586.md) | **SQL - [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)** | ![](https://img.shields.io/badge/-esay-green) |
+| [595](https://github.com/ffflora/leetcode/blob/master/python/595.md) | **SQL - Big Countries** | ![](https://img.shields.io/badge/-esay-green) |
+| [597](https://github.com/ffflora/leetcode/blob/master/python/597.md) | **SQL - [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)** | ![](https://img.shields.io/badge/-esay-green) |
 | [608](https://github.com/ffflora/leetcode/blob/master/python/608.md) | **SQL - Tree Node** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [704](https://github.com/ffflora/leetcode/blob/master/python/704.md) |Binary Search | ![](https://img.shields.io/badge/-esay-green) |
 | [912](https://github.com/ffflora/leetcode/blob/master/python/912.md) |Sort an Array | ![](https://img.shields.io/badge/-medium-yellow) |
