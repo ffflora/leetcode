@@ -52,7 +52,10 @@ My solutions to some selected LeetCode problems.
 | [586](https://github.com/ffflora/leetcode/blob/master/python/586.md) | **SQL - [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)** | ![](https://img.shields.io/badge/-esay-green) |
 | [595](https://github.com/ffflora/leetcode/blob/master/python/595.md) | **SQL - Big Countries** | ![](https://img.shields.io/badge/-esay-green) |
 | [597](https://github.com/ffflora/leetcode/blob/master/python/597.md) | **SQL - [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)** | ![](https://img.shields.io/badge/-esay-green) |
+| [603](https://github.com/ffflora/leetcode/blob/master/python/603.md) | **SQL - Consecutive Available Seat** | ![](https://img.shields.io/badge/-esay-green) |
 | [608](https://github.com/ffflora/leetcode/blob/master/python/608.md) | **SQL - Tree Node** | ![](https://img.shields.io/badge/-medium-yellow) |
+| [613](https://github.com/ffflora/leetcode/blob/master/python/613.md) | **SQL - Shortest Distance in a Line** | ![](https://img.shields.io/badge/-esay-green) |
+| [627](https://github.com/ffflora/leetcode/blob/master/python/627.md) | **SQL - Swap Salary** | ![](https://img.shields.io/badge/-esay-green) |
 | [704](https://github.com/ffflora/leetcode/blob/master/python/704.md) |Binary Search | ![](https://img.shields.io/badge/-esay-green) |
 | [912](https://github.com/ffflora/leetcode/blob/master/python/912.md) |Sort an Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [977](https://github.com/ffflora/leetcode/blob/master/python/977.md) |Squares of a Sorted Array | ![](https://img.shields.io/badge/-esay-green) |
