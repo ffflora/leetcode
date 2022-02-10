@@ -27,9 +27,11 @@ My solutions to some selected LeetCode problems.
 | [175](https://github.com/ffflora/leetcode/blob/master/python/175.md) | **SQL - Combine Two Tables** | ![](https://img.shields.io/badge/-esay-green) |
 | [176](https://github.com/ffflora/leetcode/blob/master/python/176.md) | **SQL - Second Highest Salary** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [177](https://github.com/ffflora/leetcode/blob/master/python/177.md) | **SQL - Nth Highest Salary** | ![](https://img.shields.io/badge/-medium-yellow) |
+| [180](https://github.com/ffflora/leetcode/blob/master/python/180.md) | **SQL - Consecutive Numers** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [181](https://github.com/ffflora/leetcode/blob/master/python/181.md) | **SQL - Employees Earning More Than Their Managers** | ![](https://img.shields.io/badge/-esay-green) |
 | [182](https://github.com/ffflora/leetcode/blob/master/python/182.md) | **SQL - Duplicate Emails** | ![](https://img.shields.io/badge/-esay-green) |
 | [183](https://github.com/ffflora/leetcode/blob/master/python/183.md) | **SQL - Customers Who Never Order** | ![](https://img.shields.io/badge/-esay-green) |
+| [184](https://github.com/ffflora/leetcode/blob/master/python/184.md) | **SQL - Department Highest Salary** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [185](https://github.com/ffflora/leetcode/blob/master/python/185.md) | **SQL - Department Top Three Salaries** | ![](https://img.shields.io/badge/-hard-red) |
 | [189](https://github.com/ffflora/leetcode/blob/master/python/189.md) | Rotate Array | ![](https://img.shields.io/badge/-medium-yellow) |
 | [196](https://github.com/ffflora/leetcode/blob/master/python/196.md) | **SQL - Delete Duplicate Emails** | ![](https://img.shields.io/badge/-esay-green) |
@@ -39,6 +41,7 @@ My solutions to some selected LeetCode problems.
 | [241](https://github.com/ffflora/leetcode/blob/master/python/241.md)    | Different Ways to Add Parentheses | ![](https://img.shields.io/badge/-medium-yellow)  |
 | [242](https://github.com/ffflora/leetcode/blob/master/python/242.md)    | Valid Anagram| ![](https://img.shields.io/badge/-esay-green)  |
 | [260](https://github.com/ffflora/leetcode/blob/master/python/260.md)    | Single Number III | ![](https://img.shields.io/badge/-medium-yellow)  |
+| [262](https://github.com/ffflora/leetcode/blob/master/python/262.md) | **SQL - Trips and Users** | ![](https://img.shields.io/badge/-hard-red) |
 | [278](https://github.com/ffflora/leetcode/blob/master/python/278.md) | First Bad Version | ![](https://img.shields.io/badge/-esay-green) |
 | [287](https://github.com/ffflora/leetcode/blob/master/python/287.md) | Find the Duplicate Number | ![](https://img.shields.io/badge/-medium-yellow) |
 | [283](https://github.com/ffflora/leetcode/blob/master/python/283.md) | Move Zeros | ![](https://img.shields.io/badge/-esay-green) |
@@ -58,6 +61,7 @@ My solutions to some selected LeetCode problems.
 | [603](https://github.com/ffflora/leetcode/blob/master/python/603.md) | **SQL - Consecutive Available Seat** | ![](https://img.shields.io/badge/-esay-green) |
 | [608](https://github.com/ffflora/leetcode/blob/master/python/608.md) | **SQL - Tree Node** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [613](https://github.com/ffflora/leetcode/blob/master/python/613.md) | **SQL - Shortest Distance in a Line** | ![](https://img.shields.io/badge/-esay-green) |
+| [618](https://github.com/ffflora/leetcode/blob/master/python/618.md) | **SQL - Students Report By Geography** | ![](https://img.shields.io/badge/-hard-red) |
 | [627](https://github.com/ffflora/leetcode/blob/master/python/627.md) | **SQL - Swap Salary** | ![](https://img.shields.io/badge/-esay-green) |
 | [704](https://github.com/ffflora/leetcode/blob/master/python/704.md) |Binary Search | ![](https://img.shields.io/badge/-esay-green) |
 | [912](https://github.com/ffflora/leetcode/blob/master/python/912.md) |Sort an Array | ![](https://img.shields.io/badge/-medium-yellow) |
