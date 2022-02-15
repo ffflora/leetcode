@@ -54,6 +54,7 @@ My solutions to some selected LeetCode problems.
 | [512](https://github.com/ffflora/leetcode/blob/master/python/512.md) | **SQL - Game Play Analysis II** | ![](https://img.shields.io/badge/-esay-green) |
 | [557](https://github.com/ffflora/leetcode/blob/master/python/557.md) | Reverse words in a String III | ![](https://img.shields.io/badge/-esay-green) |
 | [577](https://github.com/ffflora/leetcode/blob/master/python/577.md) | **SQL - Employee Bonus** | ![](https://img.shields.io/badge/-esay-green) |
+| [580](https://github.com/ffflora/leetcode/blob/master/python/580.md) | **SQL - Count Student Number in Departments** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [584](https://github.com/ffflora/leetcode/blob/master/python/584.md) | **SQL - Find Customer Referee** | ![](https://img.shields.io/badge/-esay-green) |
 | [586](https://github.com/ffflora/leetcode/blob/master/python/586.md) | **SQL - [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)** | ![](https://img.shields.io/badge/-esay-green) |
 | [595](https://github.com/ffflora/leetcode/blob/master/python/595.md) | **SQL - Big Countries** | ![](https://img.shields.io/badge/-esay-green) |
@@ -62,6 +63,7 @@ My solutions to some selected LeetCode problems.
 | [608](https://github.com/ffflora/leetcode/blob/master/python/608.md) | **SQL - Tree Node** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [613](https://github.com/ffflora/leetcode/blob/master/python/613.md) | **SQL - Shortest Distance in a Line** | ![](https://img.shields.io/badge/-esay-green) |
 | [618](https://github.com/ffflora/leetcode/blob/master/python/618.md) | **SQL - Students Report By Geography** | ![](https://img.shields.io/badge/-hard-red) |
+| [626](https://github.com/ffflora/leetcode/blob/master/python/626.md) | **SQL - Exchange Seats** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [627](https://github.com/ffflora/leetcode/blob/master/python/627.md) | **SQL - Swap Salary** | ![](https://img.shields.io/badge/-esay-green) |
 | [704](https://github.com/ffflora/leetcode/blob/master/python/704.md) |Binary Search | ![](https://img.shields.io/badge/-esay-green) |
 | [912](https://github.com/ffflora/leetcode/blob/master/python/912.md) |Sort an Array | ![](https://img.shields.io/badge/-medium-yellow) |
