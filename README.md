@@ -75,4 +75,5 @@ My solutions to some selected LeetCode problems.
 | [1204](https://github.com/ffflora/leetcode/blob/master/python/1204.md) |**SQL - Last Person to fit in the Bus** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1501](https://github.com/ffflora/leetcode/blob/master/python/1501.md) |**SQL - Countries You Can Safely Invest In** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1511](https://github.com/ffflora/leetcode/blob/master/python/1511.md) |**SQL - Customer Order Frequency** | ![](https://img.shields.io/badge/-esay-green) |
+| [1532](https://github.com/ffflora/leetcode/blob/master/python/1532.md) |**SQL - The Most Recent Three Orders** | ![](https://img.shields.io/badge/-medium-yellow) |
 
