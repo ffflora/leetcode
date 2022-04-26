@@ -72,6 +72,7 @@ My solutions to some selected LeetCode problems.
 | [977](https://github.com/ffflora/leetcode/blob/master/python/977.md) |Squares of a Sorted Array | ![](https://img.shields.io/badge/-esay-green) |
 | [1050](https://github.com/ffflora/leetcode/blob/master/python/1050.md) |**SQL - Actors and Directors Who Coorperated At Least Three Times** | ![](https://img.shields.io/badge/-esay-green) |
 | [1164](https://github.com/ffflora/leetcode/blob/master/python/1164.md) |**SQL - Product Price At A Given Date** | ![](https://img.shields.io/badge/-medium-yellow) |
+| [1158](https://github.com/ffflora/leetcode/blob/master/python/1158.md) |**SQL - Market Analysis I** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1204](https://github.com/ffflora/leetcode/blob/master/python/1204.md) |**SQL - Last Person to fit in the Bus** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1501](https://github.com/ffflora/leetcode/blob/master/python/1501.md) |**SQL - Countries You Can Safely Invest In** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1511](https://github.com/ffflora/leetcode/blob/master/python/1511.md) |**SQL - Customer Order Frequency** | ![](https://img.shields.io/badge/-esay-green) |
