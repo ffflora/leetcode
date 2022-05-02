@@ -61,6 +61,7 @@ My solutions to some selected LeetCode problems.
 | [586](https://github.com/ffflora/leetcode/blob/master/python/586.md) | **SQL - [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)** | ![](https://img.shields.io/badge/-esay-green) |
 | [595](https://github.com/ffflora/leetcode/blob/master/python/595.md) | **SQL - Big Countries** | ![](https://img.shields.io/badge/-esay-green) |
 | [597](https://github.com/ffflora/leetcode/blob/master/python/597.md) | **SQL - [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)** | ![](https://img.shields.io/badge/-esay-green) |
+| [601](https://github.com/ffflora/leetcode/blob/master/python/601.md) | **SQL - Human Traffic Stadium** | ![](https://img.shields.io/badge/-hard-red) |
 | [603](https://github.com/ffflora/leetcode/blob/master/python/603.md) | **SQL - Consecutive Available Seat** | ![](https://img.shields.io/badge/-esay-green) |
 | [608](https://github.com/ffflora/leetcode/blob/master/python/608.md) | **SQL - Tree Node** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [613](https://github.com/ffflora/leetcode/blob/master/python/613.md) | **SQL - Shortest Distance in a Line** | ![](https://img.shields.io/badge/-esay-green) |
@@ -77,6 +78,7 @@ My solutions to some selected LeetCode problems.
 | [1204](https://github.com/ffflora/leetcode/blob/master/python/1204.md) |**SQL - Last Person to fit in the Bus** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1501](https://github.com/ffflora/leetcode/blob/master/python/1501.md) |**SQL - Countries You Can Safely Invest In** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1511](https://github.com/ffflora/leetcode/blob/master/python/1511.md) |**SQL - Customer Order Frequency** | ![](https://img.shields.io/badge/-esay-green) |
+| [1527](https://github.com/ffflora/leetcode/blob/master/python/1527.md) |**SQL - Patients with a Condition** | ![](https://img.shields.io/badge/-esay-green) |
 | [1532](https://github.com/ffflora/leetcode/blob/master/python/1532.md) |**SQL - The Most Recent Three Orders** | ![](https://img.shields.io/badge/-medium-yellow) |
 | [1965](https://github.com/ffflora/leetcode/blob/master/python/1965.md) |**SQL - Employees With Missing Information** | ![](https://img.shields.io/badge/-esay-green) |
 
